@@ -37,8 +37,6 @@ B/
   banana.jpg
 C/
   Cat.pdf
-Unsupported/
-  123.doc
 ```
 
 ## Dependensi
