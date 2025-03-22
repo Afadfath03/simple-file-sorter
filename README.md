@@ -4,9 +4,9 @@ Skrip Python ini mengorganisir file dalam direktori saat ini dengan memindahkann
 
 ## Cara Penggunaan
 
-1.  Simpan skrip Python `move.py` di direktori yang berisi file yang ingin Anda organisir.
+1.  Simpan skrip Python `simple-file-sorter.py` di direktori yang berisi file yang ingin Anda organisir.
 2.  Buka terminal atau command prompt dan navigasikan ke direktori tersebut.
-3.  Jalankan skrip menggunakan Python: `python move.py`
+3.  Jalankan skrip menggunakan Python: `python simple-file-sorter.py` atau `py simple-file-sorter.py`
 
 ## Deskripsi
 
@@ -32,13 +32,13 @@ Cat.pdf
 Setelah menjalankan skrip, direktori akan berisi folder-folder berikut:
 ``` txt
 A/
-Apple.txt
+  Apple.txt
 B/
-banana.jpg
+  banana.jpg
 C/
-Cat.pdf
+  Cat.pdf
 Unsupported/
-123.doc
+  123.doc
 ```
 
 ## Dependensi
